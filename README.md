@@ -9,7 +9,7 @@
 # Screenshots
 
 
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183130.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183151.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183157.jpg" width="200" height="400"/>
+<img src="https://lh3.googleusercontent.com/V2yGFnU7WqcehPYtjIZhuGbjthr4KCOuPAOsoTbCMtzUERMjP55YIF2bFhAIAarY_2CF=w720-h310-rw" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183151.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183157.jpg" width="200" height="400"/>
 <img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183220.jpg" width="200" height="400"/>
 <img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183228.jpg" width="200" height="400"/>
 <img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183239.jpg" width="200" height="400"/>
