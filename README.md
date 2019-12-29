@@ -9,12 +9,13 @@
 # Screenshots
 
 
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172213.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183151.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183157.jpg" width="200" height="400"/>
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183220.jpg" width="200" height="400"/>
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183228.jpg" width="200" height="400"/>
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183239.jpg" width="200" height="400"/>
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183247.jpg" width="200" height="400"/>
-<img src="https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/Screenshot_20191108-183325.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172213.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172226.jpg" width="200" height="400"/><img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172233.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172250.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172256.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172305.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172310.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172321.jpg" width="200" height="400"/>
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/Screenshot_20191229-172329.jpg" width="200" height="400"/>
 
 
 # Features
