@@ -135,7 +135,8 @@ To build the project, ensure that you have a recent version of the Flutter SDK
 </a>
 
 # try out APK:
-* [apk](https://github.com/shivamkapasia0/firebase_myhoroscope/blob/master/my_horoscope.apk)
+### Scane QR Code to download apk.
+<img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/myhoro.png" width="200" height="400"/>
 
 # License
 ```
@@ -161,6 +162,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-# APK
-### scan QR Code to download apk
-[img src="https://github.com/shivamkapasia0/firebase_myhoroscope_flutter-master/blob/master/screenshots/myhoro.png" width="200" height="400"/>
